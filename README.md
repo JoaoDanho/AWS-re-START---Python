@@ -1,2 +1,10 @@
+[TOC]
+
 # AWS-re-START---Python
-Sobre python
+
+# Introdução
+Aqui tenho todos os exercicios dados neste módulo
+
+# Arquitetura
+## Linguagem:
+python
